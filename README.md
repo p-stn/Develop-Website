@@ -1,4 +1,4 @@
-# Develop-Website-Template
+# Develop-Website
 
 ## [Demo Project](https://p-stn.github.io/Develop-Website-Template/)
 

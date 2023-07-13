@@ -13,4 +13,4 @@
 
 - Role - Frontend
 
-- How to reach me : with my [instagram]() and [linkedin]()
+- How to reach me : with my [instagram](https://instagram.com/poya_saadatian) and [linkedin](https://linkedin.com/in/pooya-saadatian-35ab24278)
